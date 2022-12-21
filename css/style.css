@@ -208,7 +208,7 @@ a:focus,
   display: table;
   width: 100%;
   padding: 0;
-  background: url(../img/SpaceETH.png) center center no-repeat;
+  background: url(../img/rabbitking2.png) center center no-repeat;
   background-color: #e5e5e5;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -226,6 +226,9 @@ a:focus,
   text-transform: uppercase;
   margin-top: 0;
   margin-bottom: 10px;
+}
+.intro h3 {
+  color: #fff;
 }
 .intro h1 span {
   font-weight: 800;
